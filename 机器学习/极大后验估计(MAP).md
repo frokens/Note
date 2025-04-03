@@ -8,4 +8,4 @@ $$
 
 >	在$X$条件下求最可能的参数$\theta$(*MAP*)  **VS**  求最符合$X$ 分布的参数$\theta$ (*MLE*)
 
-需要提前假设 $\theta$ 的分布$P(\theta)$ 用于通过贝叶斯公式计算$P(\theta|X)$ 
+需要提前假设 $\theta$ 的先验分布$P(\theta)$ 用于通过贝叶斯公式计算$P(\theta|X)$ 
